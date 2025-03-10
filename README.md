@@ -40,11 +40,6 @@ Use appropriate metrics to assess model performance:
 - Discuss risks associated with adopting the model (e.g., false positives/negatives and their impact on advertising revenue).
 - Suggest improvements for real-world deployment.
 
-## 📤 **Submission Guidelines**
-✔️ Submit a Jupyter Notebook (`.ipynb`) with **code, explanations, and visualizations**.
-✔️ Include a 3-5 slide presentation summarizing model performance and business implications.
-✔️ Ensure the notebook is **well-commented** and follows best practices.
-
 ## 🚀 **Next Steps**
 - Start with **data exploration** and **preprocessing**.
 - Experiment with different models and fine-tune them.
