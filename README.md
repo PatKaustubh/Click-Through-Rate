@@ -42,7 +42,7 @@ Use appropriate metrics to assess model performance:
 
 ## 💾 **Downloadable Data Links**
 - [💽 CTR Data](https://drive.google.com/file/d/1Pc2aYqacRjf89ALNt1qvodhBgsb5XfH_/view?usp=sharing)
-- [💽 Data Description](https://drive.google.com/file/d/1f7teCWCfXVDmHSIF5yJB9uKNnOiq7JZD/view?usp=sharing)
+- [💽 Data Description](https://drive.google.com/file/d/1f7teCWCfXVDmHSIF5yJB9uKNnOiq7JZD/view?usp=drive_link)
 
 
 ## 🚀 **Next Steps**
