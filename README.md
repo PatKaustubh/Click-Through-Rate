@@ -41,8 +41,8 @@ Use appropriate metrics to assess model performance:
 - Suggest improvements for real-world deployment.
 
 ## 💾 **Downloadable Data Links**
-- [💽 CTR Data](sandbox:/mnt/data/data%20(2).csv)
-- [💽 Data Description](sandbox:/mnt/data/Data+Description+-+Sheet1%20(1).csv)
+- [💽 CTR Data](https://drive.google.com/file/d/1Pc2aYqacRjf89ALNt1qvodhBgsb5XfH_/view?usp=sharing)
+- [💽 Data Description](https://drive.google.com/file/d/1f7teCWCfXVDmHSIF5yJB9uKNnOiq7JZD/view?usp=sharing)
 
 
 ## 🚀 **Next Steps**
