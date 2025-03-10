@@ -4,7 +4,7 @@
 Click-through rate (CTR) prediction is a crucial task in online advertising, enabling marketers to estimate the probability of a user clicking on an ad. This assignment involves building a CTR prediction model using **three classification algorithms** and evaluating their performance.
 
 ### 🎯 **Objective**
-Predict whether a user will click on an ad or not based on a dataset with **99,999 rows and 27 columns**. 
+Predict whether a user will click on an ad or not based on a dataset with **99,999 rows and 27 columns**.
 
 ## 🛠️ **Recommended Approach**
 ### 🔍 **Step 1: Data Exploration & Preprocessing**
@@ -39,6 +39,11 @@ Use appropriate metrics to assess model performance:
 - Interpret the best model's evaluation metric.
 - Discuss risks associated with adopting the model (e.g., false positives/negatives and their impact on advertising revenue).
 - Suggest improvements for real-world deployment.
+
+## 💾 **Downloadable Data Links**
+- [💽 CTR Data](sandbox:/mnt/data/data%20(2).csv)
+- [💽 Data Description](sandbox:/mnt/data/Data+Description+-+Sheet1%20(1).csv)
+
 
 ## 🚀 **Next Steps**
 - Start with **data exploration** and **preprocessing**.
